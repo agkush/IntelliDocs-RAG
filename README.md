@@ -1,4 +1,4 @@
-# 🤖 IntelliDocs-RAG: Offline PDF Chatbot with RAG & Local LLM
+# 🤖 IntelliDocs-RAG: Offline Multi PDF Chatbot with RAG & Local LLM
 
 ![Screenshot](screenshot.png)
 
